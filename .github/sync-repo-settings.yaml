@@ -1,4 +1,4 @@
-defbonnacci
+def fbonnacci (N)
 rebaseMergeAllowed: true
 squashMergeAllowed: true
 mergeCommitAllowed: false
